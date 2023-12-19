@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FullSilicon-Alchemist
+- 👀 I’m interested in programming, machine learning and new technological methods
+- 🌱 I’m currently learning python
+- 💞️ I want to become a part of Microsoft
+- 📫 You can reach me through email, "skyhack776@gmail.com"
