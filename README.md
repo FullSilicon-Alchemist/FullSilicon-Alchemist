@@ -10,7 +10,7 @@ Welcome to FullSilicon Alchemist's GitHub Profile! 👋<br><br>
 <li>Programming languages: Python, Javascript</li>
 </ul>
 <ul><h3>Get in Touch</h3>
-<li>Email: <a href="mailto:"skyhack776@gmail.com">skyhack776@gmail.com</a></li>
+<li>Email: <a href="mailto:skyhack776@gmail.com">skyhack776@gmail.com</a></li>
 </ul>
 <br>
 <i>Thanks for visiting my GitHub profile! Feel free to connect with me and explore my projects.</i> 😊
