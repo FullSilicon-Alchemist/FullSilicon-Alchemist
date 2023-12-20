@@ -1,6 +1,7 @@
-<h1>Welcome to FullSilicon Alchemist's GitHub Profile! 👋</h1><br><br>
+<h1>Welcome to FullSilicon Alchemist's GitHub Profile! 👋</h1><br>
 <ul><h3>About Me</h3>
-<li>Hi there! I'm FullSilicon Alchemist, a passionate programmer from Pakistan. I love coding and enjoy exploring new technologies.</li><br>
+<li>Hi there! I'm FullSilicon Alchemist, a passionate programmer from Pakistan 🇵🇰.</li>
+  <li>I love coding and enjoy exploring new technologies.</li>
 </ul>
 <ul><h3>What I Do</h3>
 <li>🌱 I’m currently learning python.</li>
