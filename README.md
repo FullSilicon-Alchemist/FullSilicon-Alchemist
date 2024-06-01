@@ -23,6 +23,6 @@ I'm a passionate programmer from Pakistan 🇵🇰, currently a student with a s
 
 ### Get in Touch
 - 📧 Email: skyhack776@gmail.com
-
+- ☎  Phone: +923095036713
   
 _Thanks for visiting my GitHub profile! Feel free to connect with me and explore my projects._ 😊
