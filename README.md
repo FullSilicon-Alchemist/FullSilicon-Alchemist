@@ -3,12 +3,12 @@
 I'm a passionate programmer from Pakistan 🇵🇰, currently a student with a strong desire to explore and excel in the world of technology and Computers.
 
 ### About Me
-- 🎓 Currently pursuing my education with a focus on expanding my knowledge in computer science.
+- 🎓 Currently pursuing my bachelor degree in Software Engineering from [NUST](https://nust.edu.pk) focus on expanding my knowledge in computer science.
 - 🌍 Proudly representing Pakistan on my tech journey.
 
 ### What I Do
 - 🌱 Currently, I'm diving deep into the world of Python, eager to harness its power in my projects.
-- 👯 I'm keen on collaborating on projects related to Microsoft technologies.
+- 👯 I'm keen on collaborating on real world projects.
 
 ### Technologies I Work With
 - 🚀 Proficient in programming languages such as Python and JavaScript.
