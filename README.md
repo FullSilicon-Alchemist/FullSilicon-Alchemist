@@ -1,4 +1,4 @@
-# Hi there, I'm FullSilicon Alchemist! 👋
+# Hi there, I'm Muhammad Haroon Abid (aka FullSilicon Alchemist)! 👋
 
 I'm a passionate programmer from Pakistan 🇵🇰, currently a student with a strong desire to explore and excel in the world of technology and Computers.
 
